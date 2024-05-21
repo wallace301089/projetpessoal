@@ -10,5 +10,4 @@ public class ClientesApplication {
 		SpringApplication.run(ClientesApplication.class, args);
 		System.out.println("alo mundo, wallace vai ser o melhor programador da Outedg um dia");
 	}
-
 }
